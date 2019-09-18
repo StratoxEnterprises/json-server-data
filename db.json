@@ -20,5 +20,22 @@
     "templateId": "java-micronaut",
     "repositorySshAddress": null
     }
+  ],
+  "appcomponenttemplate" : [
+   {
+     "displayName": "Spring",
+     "language": "Java 11 LTS",
+     "templateId": "java-spring"
+   },
+   {
+     "displayName": "Micronaut with Native Image",
+     "language": "Java 11 LTS",
+     "templateId": "java-micronaut"
+   },
+   {
+     "displayName": ".NET Core",
+     "language": "C#",
+     "templateId": "csharp-dotnet"
+   }
   ]
 }
