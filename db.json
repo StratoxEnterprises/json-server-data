@@ -11,5 +11,14 @@
       "description": "bla bla"
     }
 
+  ],
+  "appcomponent": [
+    {
+    "id": "79cfae32-1fc9-46a3-b2f0-1a552acc90cd",
+    "name": "App Component Name 430",
+    "description": "Component description",
+    "templateId": "java-micronaut",
+    "repositorySshAddress": null
+    }
   ]
 }
